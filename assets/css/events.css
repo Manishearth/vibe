@@ -35,7 +35,7 @@
 .event h1,.event h2,.event h3,.event h4,.event h5,.event h6,.event .huge,.event .large{
 	color:
 }
-
+.event-location{color:gray;}
 .event-time{
 	position:absolute;
 	left:20px;
